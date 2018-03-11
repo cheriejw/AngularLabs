@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { JokeListComponent } from './joke-list/joke-list.component';
 
 @Component({
   selector: 'app-root',
